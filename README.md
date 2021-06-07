@@ -1,0 +1,1 @@
+# automated-view-ddl-creation
